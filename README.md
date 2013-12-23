@@ -43,7 +43,7 @@ Network events
   </tr>
   <tr>
     <td>Description</td>
-    <td>Sent by server, if there's currently an active vote, after calling Network:Send("VoteHandlerCancelVote")</td>
+    <td>Sent by server, if there's currently an active vote, after calling Network:Send("VoteHandlerCurrentVote")</td>
   </tr>
   <tr>
     <td>Arguments</td>
